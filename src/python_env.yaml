@@ -1,0 +1,8 @@
+python: "3.11"
+build_dependencies:
+  - pip~=24.0.0
+  - setuptools
+  - wheel
+dependencies:
+  - mlflow==2.10.2
+  - -r requirements.txt

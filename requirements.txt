@@ -1,0 +1,11 @@
+bm25s~=0.1.7
+numpy~=1.26.4
+datasets~=2.19.2
+pandas~=2.2.2
+loguru~=0.7.2
+pydantic~=2.7.4
+python-dotenv~=1.0.1
+torch~=2.3.1
+mlflow~=2.10.2
+omegaconf~=2.3.0
+transformers~=4.42.4
